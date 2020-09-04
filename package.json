@@ -1,0 +1,30 @@
+{
+  "name": "coinmaster-tooltips",
+  "version": "1.0.0",
+  "description": "Coin Master Tooltips",
+  "keywords": [
+    "example",
+    "package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/coinmaster-pro-spins/cmtooltips",
+  "bugs": {
+    "url": "https://github.com/coinmaster-pro-spins/cmtooltips/issues",
+    "email": "your-public-email@example.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coinmaster-pro-spins/cmtooltips.git"
+  },
+  "author": "Joe Bloggs <your-public-email@example.com> (your-website.com)",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
